@@ -1,8 +1,12 @@
 ## AMOC Community
 
-Here the OceanGliders community shares and discusses best practices, data formats and vocabularies. 
-It fulfils the expectations of the CLIVAR AMOC Task Team towards making AMOC observational data easier to access.
+Here the AMOCcommunity GitHub organization.  We support open-source tools and datasets for studying the Atlantic meridional overturning circulation (AMOC), including sustained observations and community-developed analysis packages.
+It addresses the expectations of the CLIVAR AMOC Task Team towards making AMOC observational data easier to access.
 
+📚 **Explore our documentation**:  
+👉 [https://amoccommunity.github.io/docs](https://amoccommunity.github.io/docs)
+
+[![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://amoccommunity.github.io/docs)
 
 ### How to contribute
 
