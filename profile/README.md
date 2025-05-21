@@ -4,7 +4,7 @@ Here the AMOCcommunity GitHub organization.  We support open-source tools and da
 It addresses the expectations of the CLIVAR AMOC Task Team towards making AMOC observational data easier to access.
 
 📚 **Explore our documentation**:  
-👉 [https://amoccommunity.github.io/docs](https://amoccommunity.github.io/docs)
+👉 [[https://amoccommunity.github.io/docs](https://amoccommunity.github.io/docs)](https://github.com/AMOCcommunity/docs)
 
 [![Documentation](https://img.shields.io/badge/docs-view-green.svg)](https://amoccommunity.github.io/docs)
 
